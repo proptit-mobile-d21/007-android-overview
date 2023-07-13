@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Android Overview</string>
+    <string name = "lets">Let\'s</string>
+    <string name="enjoy">Enjoy</string>
+    <string name="your">Your</string>
+    <string name="topic">Dream Vacation</string>
+    
+    <string name="description">Travel around the world with just a tap, and enjoy your holiday</string>
+    <string name="start" >Get Started</string>
+    <string name="account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
 </resources>

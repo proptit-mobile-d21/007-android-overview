@@ -35,7 +35,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Let's"
+                android:text="@string/lets"
                 android:textColor="@color/black"
                 android:textSize="30dp" />
             <TextView
@@ -43,7 +43,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Enjoy"
+                android:text="@string/enjoy"
                 android:textColor="#4CAF50"
                 android:layout_marginStart="10dp"
                 android:textSize="30dp" />
@@ -51,7 +51,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Your"
+                android:text="@string/your"
                 android:layout_marginStart="10dp"
                 android:textColor="@color/black"
                 android:textSize="30dp" />
@@ -61,7 +61,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Dream Vacation"
+            android:text="@string/topic"
             android:textAlignment="center"
             android:gravity="center"
             android:textColor="#4CAF50"
@@ -72,14 +72,14 @@
             android:layout_weight="1"
             android:textAlignment="center"
             android:gravity="center"
-            android:text="Travel around the world with just a tap, and enjoy your holiday" />
+            android:text="@string/description" />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:gravity="center"
             android:background="@drawable/rounded_corner"
-            android:text="Get Started" />
+            android:text="@string/start" />
         <LinearLayout
             android:layout_weight="1"
             android:orientation="horizontal"
@@ -93,7 +93,7 @@
                 android:textAlignment="center"
                 android:gravity="center"
                 android:textColor="@color/black"
-                android:text="Already have an account?" />
+                android:text="@string/account" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -101,7 +101,8 @@
                 android:textAlignment="center"
                 android:gravity="center"
                 android:textColor="#E91E63"
-                android:text=" Sign In" />
+                android:layout_marginStart="5dp"
+                android:text="@string/sign_in" />
         </LinearLayout>
 
 
