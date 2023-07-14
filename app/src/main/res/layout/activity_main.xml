@@ -29,20 +29,20 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Let's "
+                android:text="@string/intro_title_1"
                 android:textSize="35sp"
                 android:textStyle="bold"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Enjoy "
+                android:text="@string/intro_title_2"
                 android:textSize="35sp"
                 android:textStyle="bold"
                 android:textColor="@color/tea"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Your"
+                android:text="@string/intro_title_3"
                 android:textSize="35sp"
                 android:textStyle="bold"/>
         </LinearLayout>
@@ -51,7 +51,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:text="Dream Vacation"
+            android:text="@string/intro_title_4"
             android:textSize="35sp"
             android:textStyle="bold"
             android:textColor="@color/tea"/>
@@ -62,7 +62,7 @@
             android:layout_marginVertical="25dp"
             android:layout_marginHorizontal="40dp"
             android:textAlignment="center"
-            android:text="Travel around the world with just a tap, and enjoy your holiday"
+            android:text="@string/intro_description"
             android:textSize="18sp"
             android:textColor="@color/gray"/>
 
@@ -73,7 +73,7 @@
             android:layout_marginHorizontal="30dp"
             android:backgroundTint="@color/tea"
             android:textSize="18sp"
-            android:text="Get Started"/>
+            android:text="@string/intro_get_started"/>
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -84,12 +84,12 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="16sp"
-                android:text="Already have an account? "/>
+                android:text="@string/intro_have_account"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="16sp"
-                android:text="Sign In"
+                android:text="@string/intro_sign_in"
                 android:textStyle="bold"
                 android:textColor="@color/tea"/>
         </LinearLayout>
