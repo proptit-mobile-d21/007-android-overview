@@ -39,7 +39,6 @@
             android:text="@string/dream_vacation"
             android:textAlignment="center"
             android:textSize="40sp"
-            android:textColor="#5c5c5c"
             android:paddingStart="16dp"
             android:paddingEnd="16dp"
             android:paddingTop="8dp"

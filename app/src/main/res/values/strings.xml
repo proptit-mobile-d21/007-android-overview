@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Android Overview</string>
-    <string name="dream_vacation">Let\'s Enjoy Your Dream Vacation</string>
+    <string name="dream_vacation"><font color="@colors/black">Let\'s </font><font color="#537d77">Enjoy </font><font color="@colors/black">Your </font><font color="#537d77">Dream Vacation</font>
+    </string>
     <string name="travel_around">Travel around the world with just a tap, and enjoy your holiday</string>
     <string name="get_started">Get Started</string>
     <string name="already_have_account">Already have an account?</string>
