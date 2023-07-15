@@ -4,4 +4,7 @@
     <string name="big_title">Let\'s Enjoy Your Dream Vacation</string>
     <string name="extra_title">Travel around the world with just a tap, and enjoy your holiday</string>
     <string name="get_started">Get Started</string>
+    <string name="highlight_heading_1">Enjoy</string>
+    <string name="highlight_heading_2">Dream Vacation</string>
+    <string name="highlight_signin">Sign In</string>
 </resources>
