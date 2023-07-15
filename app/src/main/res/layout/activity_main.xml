@@ -36,7 +36,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Let's Enjoy Your Dream Vacation"
+            android:text="@string/dream_vacation"
             android:textAlignment="center"
             android:textSize="40sp"
             android:textColor="#5c5c5c"
@@ -50,14 +50,14 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Travel around the world with just a tap, and enjoy your holiday"
+            android:text="@string/travel_around"
             android:textSize="24sp"
             android:textAlignment="center"
             android:paddingStart="8dp"
             android:paddingEnd="8dp"
             android:paddingTop="8dp"
             android:paddingBottom="8dp"
-            android:textColor="#aaaaaa"
+            android:textColor="@color/grey"
             />
 
         <LinearLayout
@@ -73,7 +73,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="Get Started"
+                android:text="@string/get_started"
                 android:textSize="24sp"
                 android:textColor="@color/white"
                 android:textAlignment="center">
@@ -90,15 +90,15 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Already have an account?"
+                android:text="@string/already_have_account"
                 android:textColor="@color/black"
                 />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Sign In"
-                android:textColor="#477c72"
+                android:text="@string/sign_in"
+                android:textColor="@color/bean_green"
                 android:paddingStart="4dp"
                 />
 
